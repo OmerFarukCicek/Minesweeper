@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466352763499",
+    "project_id": "android-minesweeper-2",
+    "storage_bucket": "android-minesweeper-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466352763499:android:8275f1100139c5b295372e",
+        "android_client_info": {
+          "package_name": "com.learntodroid.androidminesweeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466352763499-tmvgiv9vbecqa8q5rjd7is3mjqfjnfhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAealm2tLMaUb6XaBUyrvegps5Ar-BGsdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466352763499-tmvgiv9vbecqa8q5rjd7is3mjqfjnfhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
